@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kugawa Server</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_stop_node">Stop Node</string>
+</resources>
